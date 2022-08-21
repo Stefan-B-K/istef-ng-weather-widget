@@ -2,11 +2,11 @@
 
 A small weather widget for your Angular projects. Clips to the left middle of the web page.
 
+![](https://github.com/Stefan-B-K/istef-ng-weather-widget/blob/main/src/assets/Screenshot.png)
+
 ## Install
 
 `npm i istef-ng-weather-widget`
-
-![](/src/assets/Screenshot.png)
 
 ## Use
 
