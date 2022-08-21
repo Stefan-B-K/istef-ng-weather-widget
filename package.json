@@ -4,5 +4,13 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/Stefan-B-K/istef-ng-weather-widget"
-  }
+  },
+  "keywords": [
+    "angular",
+    "weather",
+    "widget",
+    "module",
+    "istef"
+  ],
+  "homepage": ""
 }
