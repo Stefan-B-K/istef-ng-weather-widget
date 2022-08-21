@@ -5,7 +5,7 @@ import { Observable } from "rxjs";
 @Component({
     selector: 'istef-ng-weather',
     templateUrl: './forecast.component.html',
-    styleUrls: ['./forecast.component.scss']
+    styleUrls: ['./forecast.component.css']
 })
 export class ForecastComponent implements OnInit {
 
